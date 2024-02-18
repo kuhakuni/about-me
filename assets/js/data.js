@@ -1,14 +1,14 @@
 const dataPortfolios = [
 	{
 		name: "SIPERAT Website",
-		tags: ["React", "TailwindCSS", "Golang"],
+		tags: ["ReactJS", "TailwindCSS", "Golang"],
 		description: `SIPERAT was created for helping students doing <strong>administration things</strong> in BEM FILKOM UB. This website is the result of collaboration between ADKEU and PIT Bureau BEM FILKOM UB.`,
 		image: "assets/img/siperat.png",
 		url: "https://bemfilkom.ub.ac.id/apps/siperat/#/",
 	},
 	{
 		name: "SJW FILKOM Website",
-		tags: ["React", "TailwindCSS", "ExpressJS"],
+		tags: ["ReactJS", "TailwindCSS", "ExpressJS"],
 		description: `Built as a place for FILKOM students to <strong>report bullying and sexual harrasment</strong>. This website is the result of collaboration betwen Sosling Ministry and PIT Bureau BEM FILKOM UB.`,
 		image: "assets/img/sjw-filkom.png",
 		url: "https://bemfilkom.ub.ac.id/apps/sjw-filkom/#/",
