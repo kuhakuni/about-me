@@ -2,7 +2,7 @@ const dataPortfolios = [
 	{
 		name: "SIPERAT Website",
 		tags: ["ReactJS", "TailwindCSS", "Golang"],
-		description: `SIPERAT was created for helping students doing <strong>administration things</strong> in BEM FILKOM UB. This website is the result of collaboration between ADKEU and PIT Bureau BEM FILKOM UB.`,
+		description: `SIPERAT was created for helping FILKOM students dealing with <strong>administration things</strong> in BEM FILKOM UB. This website is the result of collaboration between ADKEU and PIT Bureau BEM FILKOM UB.`,
 		image: "assets/img/siperat.png",
 		url: "https://bemfilkom.ub.ac.id/apps/siperat/#/",
 	},
